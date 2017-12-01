@@ -12,7 +12,7 @@
 # Requirements
   - firebase SDK
   - react-native-gifted-chat for UI
-  I used firebase for data storage and a quick real-time messaging backbone. 
+  - I used firebase for data storage and a quick real-time messaging backbone. 
 
 # Set Up
 
